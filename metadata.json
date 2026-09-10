@@ -1,0 +1,6 @@
+{
+  "name": "Triple Chart Browser",
+  "description": "Android 平板横屏看盘多窗浏览器，支持 1:1:1 三窗口并列展示、动态等比缩放与隐藏拉伸、预设/自定义工作区、TradingView 辅助快捷键浮钮与高清放大镜。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

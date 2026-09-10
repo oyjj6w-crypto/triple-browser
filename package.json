@@ -1,0 +1,9 @@
+{
+  "name": "triple-chart-browser",
+  "version": "1.0.0",
+  "description": "Triple Chart Browser for Android Tablets",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'Android Project Ready'"
+  }
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Triple Chart Browser</string>
+    <string name="workspace_crypto">加密货币 (BTC/ETH/SOL)</string>
+    <string name="workspace_metals">贵金属外汇 (Gold/Silver/DXY)</string>
+    <string name="workspace_commodities">能源大宗 (原油/布伦特/天然气)</string>
+    <string name="workspace_indices">全球主要股指 (SPX/NDX/恒指)</string>
+    <string name="workspace_macro">宏观国债 (US10Y/US02Y/VIX)</string>
+    <string name="restore_all">恢复 3 窗并列</string>
+    <string name="save_workspace">保存当前分组</string>
+    <string name="maximize_window">全屏最大化</string>
+    <string name="restore_window">还原窗口</string>
+    <string name="hide_window">隐藏此窗口</string>
+    <string name="desktop_mode">桌面版 UA</string>
+    <string name="mobile_mode">移动版 UA</string>
+    <string name="magnifier">局部放大镜</string>
+    <string name="shortcuts">看盘快捷浮钮</string>
+</resources>
